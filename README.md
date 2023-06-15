@@ -1,6 +1,6 @@
 # 🔹 Cilo 🔹
 
-An eCommerce website Funiro
+Smooth scrolling landing page
 
 # [Check the live demo](https://hasan-hasanzade.github.io/cilo/)
 
