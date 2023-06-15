@@ -4,7 +4,7 @@ An eCommerce website Funiro
 
 # [Check the live demo](https://hasan-hasanzade.github.io/cilo/)
 
-![](https://github.com/hasan-hasanzade/lafurniture/blob/main/src/assets/intro.png)
+![](https://github.com/hasan-hasanzade/cilo/blob/main/img/screen.png)
 
 # 🛠 Technologies Used:
 
