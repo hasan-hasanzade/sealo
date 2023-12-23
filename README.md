@@ -1,4 +1,4 @@
-# 🔹 Cilo 🔹
+# 🔹 Sealo 🔹
 
 Smooth scrolling landing page
 
